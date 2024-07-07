@@ -18,6 +18,9 @@ I'm on a mission to change the world one line of code at a time! 🌟💻 So, gr
 📬 Let's Connect!
 I'm always up for a chat about code, coffee, or BL! ☕💻🎭 Feel free to slide into my DMs on Twitter or LinkedIn and let's make some tech magic together! 🌟🔮
 
+## 📊 GitHub Stats
+![Kmoon-7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kmoon-7&show_icons=true&theme=radical)
+
 <!--
 **Kmoon-7/Kmoon-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
